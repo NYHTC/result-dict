@@ -1,4 +1,6 @@
-<?php namespace App\Utilities;
+<?php
+
+namespace ResultDict;
 
 use FMHash\FMHash;
 
