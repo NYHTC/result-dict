@@ -1,0 +1,23 @@
+{
+    "name": "nyhtc/result-dict",
+    "description": "FM Hash formatted result dictionary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Morgan",
+            "email": "andrewmile@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "andrewmile/fm-hash": "0.1.*",
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
