@@ -1,10 +1,10 @@
 <?php
 
-namespace ResultDict;
+namespace FMResult;
 
 use FMHash\FMHash;
 
-class ResultDict {
+class FMResult {
 
 	protected $hasher;
 
